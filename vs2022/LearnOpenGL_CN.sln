@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hello_window", "1.getting_s
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.getting_started", "1.getting_started", "{45E39D86-0CD9-4D65-BAFD-E795EF195C55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hellow_window_clear", "1.getting_started\hellow_window_clear\hellow_window_clear.vcxproj", "{68123C2A-774E-4339-A82F-305561BF66A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +25,21 @@ Global
 		{72D25B87-86C9-4A0A-B15E-40A6099278F5}.Release|x64.Build.0 = Release|x64
 		{72D25B87-86C9-4A0A-B15E-40A6099278F5}.Release|x86.ActiveCfg = Release|Win32
 		{72D25B87-86C9-4A0A-B15E-40A6099278F5}.Release|x86.Build.0 = Release|Win32
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Debug|x64.ActiveCfg = Debug|x64
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Debug|x64.Build.0 = Debug|x64
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Debug|x86.ActiveCfg = Debug|Win32
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Debug|x86.Build.0 = Debug|Win32
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Release|x64.ActiveCfg = Release|x64
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Release|x64.Build.0 = Release|x64
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Release|x86.ActiveCfg = Release|Win32
+		{68123C2A-774E-4339-A82F-305561BF66A5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{72D25B87-86C9-4A0A-B15E-40A6099278F5} = {45E39D86-0CD9-4D65-BAFD-E795EF195C55}
+		{68123C2A-774E-4339-A82F-305561BF66A5} = {45E39D86-0CD9-4D65-BAFD-E795EF195C55}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {424F9472-A3A9-4AFA-8795-8C6FC278E40F}
