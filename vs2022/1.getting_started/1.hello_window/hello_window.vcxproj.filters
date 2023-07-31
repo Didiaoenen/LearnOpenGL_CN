@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\src\1.getting_started\hellow_window\hellow_window.cpp">
+    <ClCompile Include="..\..\..\src\1.getting_started\1.hellow_window\hellow_window.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
